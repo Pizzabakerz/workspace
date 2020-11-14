@@ -1,0 +1,11 @@
+to create sproject
+django-admin startproject cybersavy
+
+to create app
+manage.py startapp cybersavy_web_master
+
+to runserver
+python manage.py runserver
+
+to migrate
+python manage.py migrate

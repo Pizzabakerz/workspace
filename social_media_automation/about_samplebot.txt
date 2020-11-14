@@ -1,0 +1,12 @@
+bot url->
+https://www.instagram.com/ram_kum_ram/
+
+bot credentials->
+username: ram_kum_ram
+password: RamKumRam
+email: bunty.apko@gmail.com
+
+
+REQURIEMENTS:
+facebook id
+api access
